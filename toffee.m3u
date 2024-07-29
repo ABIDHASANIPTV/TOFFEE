@@ -1,4 +1,7 @@
-# This m3u presented by t.me/bdixiptvhub
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G5TKDgC/20240727-185919.jpg" group-title="BDIX IPTV HUB",@bdixiptvhub
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u# This m3u presented by t.me/bdixiptvhub
 # API from byte-capsule
 [
   {
